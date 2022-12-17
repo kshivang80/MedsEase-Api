@@ -1,0 +1,220 @@
+{
+    "healthCarePage": {
+      "categories": [
+        {
+          "id": 109,
+          "name": "Covid Essentials",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/6d462f424a43372ea8b7b6f8ca13e052.png?f=png",
+          "discountText": "Upto 77% off",
+          "slug": "covid-essentials-109",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=109&category_name=Covid Essentials"
+        },
+        {
+          "id": 877,
+          "name": "Personal Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/1e622b0308ec3ab48887512eaa3488a5.png?f=png",
+          "discountText": "Upto 80% off",
+          "slug": "personal-care-877",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=877&category_name=Personal Care"
+        },
+        {
+          "id": 648,
+          "name": "Health Food and Drinks",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/335dae76832d370c94f0440f5ba89e1f.png?f=png",
+          "discountText": "Upto 57% off",
+          "slug": "health-food-and-drinks-648",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=648&category_name=Health Food and Drinks"
+        },
+        {
+          "id": 8881,
+          "name": "Beauty",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/403b8ada7b113c7cb2e8d09e3420edfa.png?f=png",
+          "discountText": "Upto 35% off",
+          "slug": "beauty-8881",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=8881&category_name=Beauty"
+        },
+        {
+          "id": 93,
+          "name": "Skin Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/154dec0567b23244b7dcbf2158d39eee.png?f=png",
+          "discountText": "Upto 50% off",
+          "slug": "skin-care-93",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=93&category_name=Skin Care"
+        },
+        {
+          "id": 734,
+          "name": "Home Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/dc96175686f135b5a22d1e57165d0246.png?f=png",
+          "discountText": "Upto 35% off",
+          "slug": "home-care-734",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=734&category_name=Home Care"
+        },
+        {
+          "id": 765,
+          "name": "Ayurvedic Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/ecad9a974e003fb987858b3ee81413c6.png?f=png",
+          "discountText": "Upto 70% off",
+          "slug": "ayurvedic-care-765",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=765&category_name=Ayurvedic Care"
+        },
+        {
+          "id": 575,
+          "name": "Sexual Wellness",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/d1b29f7a2b5f3d62a3d47b617aceef1b.png?f=png",
+          "discountText": "Upto 53% off",
+          "slug": "sexual-wellness-575",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=575&category_name=Sexual Wellness"
+        },
+        {
+          "id": 623,
+          "name": "Fitness Supplements",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/514d0d7d01a63502b4ebfec9ae26f4d2.png?f=png",
+          "discountText": "Upto 80% off",
+          "slug": "fitness-supplements-623",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=623&category_name=Fitness Supplements"
+        },
+        {
+          "id": 838,
+          "name": "Mother and Baby Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f692f7243b8036ed97d99a7973dd42b3.png?f=png",
+          "discountText": "Upto 50% off",
+          "slug": "mother-and-baby-care-838",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=838&category_name=Mother and Baby Care"
+        },
+        {
+          "id": 717,
+          "name": "Healthcare Devices",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/cfc8ee511609321e91eb86a34f5b2885.png?f=png",
+          "discountText": "Upto 65% off",
+          "slug": "healthcare-devices-717",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=717&category_name=Healthcare Devices"
+        },
+        {
+          "id": 693,
+          "name": "Health Condition",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/8a31db906db93f7cba59f1c48d3ba239.png?f=png",
+          "discountText": "Upto 65% off",
+          "slug": "health-condition-693",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=693&category_name=Health Condition"
+        },
+        {
+          "id": 145,
+          "name": "Diabetic Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/105ceca515ee30509f93309ae75306aa.png?f=png",
+          "discountText": "Upto 65% off",
+          "slug": "diabetic-care-145",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=145&category_name=Diabetic Care"
+        },
+        {
+          "id": 750,
+          "name": "Elderly Care",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/fa936f30b4563fc4abd187fb22fe5258.png?f=png",
+          "discountText": "Upto 45% off",
+          "slug": "elderly-care-750",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=750&category_name=Elderly Care"
+        },
+        {
+          "id": 788,
+          "name": "Accessories And Wearables",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/763b558b32313005bc11d0cae0e26f58.png?f=png",
+          "discountText": "Upto 35% off",
+          "slug": "accessories-and-wearables-788",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=788&category_name=Accessories And Wearables"
+        },
+        {
+          "id": 9297,
+          "name": "Top Products",
+          "imageUrl": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f10917087a483040b557e4b18204312c.png?f=png",
+          "discountText": "Upto % off",
+          "slug": "top-products-9297",
+          "deeplink": "push.pharmeasy.clevertap://deeplink/healthcare_product_list?category_id=9297&category_name=Top Products"
+        }
+      ],
+      "banner": [
+        {
+          "id": 10212,
+          "image": "https://cms-contents.pharmeasy.in/banner/79c73041650-Centrumm.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/products/centrum-men-world-s-no-1-multivitamin-for-overall-health-veg-50s-3779949",
+          "url": "https://pharmeasy.in/health-care/products/centrum-men-world-s-no-1-multivitamin-for-overall-health-veg-50s-3779949"
+        },
+        {
+          "id": 3087,
+          "image": "https://cms-contents.pharmeasy.in/banner/0546085c3c6-Softovac.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/2372",
+          "url": "https://pharmeasy.in/health-care/2372"
+        },
+        {
+          "id": 4281,
+          "image": "https://cms-contents.pharmeasy.in/banner/4600109971c-OneTouchSPS-CB-Sep22-min.png",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/3415",
+          "url": "https://pharmeasy.in/health-care/3415"
+        },
+        {
+          "id": 10213,
+          "image": "https://cms-contents.pharmeasy.in/banner/21ddc1b9f25-hairr.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/products/hair-4u-shampoo-bottle---100-ml-172865",
+          "url": "https://pharmeasy.in/health-care/products/hair-4u-shampoo-bottle---100-ml-172865"
+        },
+        {
+          "id": 8489,
+          "image": "https://cms-contents.pharmeasy.in/banner/df29c329f51-Huggies.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/4513",
+          "url": "https://pharmeasy.in/health-care/4513"
+        },
+        {
+          "id": 9846,
+          "image": "https://cms-contents.pharmeasy.in/banner/c4432d461ec-Mintop.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/online-medicine-order/mintop-forte-5-solution-60ml-8206",
+          "url": "https://pharmeasy.in/online-medicine-order/mintop-forte-5-solution-60ml-8206"
+        },
+        {
+          "id": 1322,
+          "image": "https://cms-contents.pharmeasy.in/banner/9e0c8cc9a56-Venusiaa.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/products/venusia-max-intensive-moisturizing-lotion-for-everyday-use---500g-214676",
+          "url": "https://pharmeasy.in/health-care/products/venusia-max-intensive-moisturizing-lotion-for-everyday-use---500g-214676"
+        },
+        {
+          "id": 6858,
+          "image": "https://cms-contents.pharmeasy.in/banner/1229593baf0-Godrej.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/3372",
+          "url": "https://pharmeasy.in/health-care/3372"
+        },
+        {
+          "id": 10315,
+          "image": "https://cms-contents.pharmeasy.in/banner/a8c80c13891-SENQUEL.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/products/senquel-f-tooth-paste-100gm-172657",
+          "url": "https://pharmeasy.in/health-care/products/senquel-f-tooth-paste-100gm-172657"
+        },
+        {
+          "id": 10316,
+          "image": "https://cms-contents.pharmeasy.in/banner/612f14cb340-DEPIWHITE.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/health-care/products/depiwhite-tube-of-15ml-eye-contour-gel-170228",
+          "url": "https://pharmeasy.in/health-care/products/depiwhite-tube-of-15ml-eye-contour-gel-170228"
+        },
+        {
+          "id": 10066,
+          "image": "https://cms-contents.pharmeasy.in/banner/447598d4bad-Omez.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/molecules/omeprazole-20-0-mg--6971",
+          "url": "https://pharmeasy.in/molecules/omeprazole-20-0-mg--6971"
+        },
+        {
+          "id": 10067,
+          "image": "https://cms-contents.pharmeasy.in/banner/6b42d7a1f1d-Keterol.jpg",
+          "type": 3,
+          "deeplink": "https://pharmeasy.in/molecules/ketorolac-10-0-mg--7827",
+          "url": "https://pharmeasy.in/molecules/ketorolac-10-0-mg--7827"
+        }
+      ]
+    }
+}
