@@ -216,5 +216,1368 @@
           "url": "https://pharmeasy.in/molecules/ketorolac-10-0-mg--7827"
         }
       ]
-    }
+    },
+
+    "healthcare": [
+      {
+        "productId": 3514609,
+        "name": "Supradyn Daily Multivitamin Tablets 15s",
+        "slug": "supradyn-daily-multivitamin-tablets-15s-3514609",
+        "manufacturer": "SUPRADYN",
+        "productType": 2,
+        "mrpDecimal": "54.90",
+        "salePriceDecimal": "49.41",
+        "discountDecimal": "5.49",
+        "discountPercent": "10",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-1-1641793954.jpg",
+            "face": "box-front",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-2-1654233843.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-2.1-1641793944.jpg",
+            "face": "front",
+            "sequence": "2.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-2.2-1641793956.jpg",
+            "face": "front",
+            "sequence": "2.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-3-1654233842.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-4-1641793947.jpg",
+            "face": "box-back",
+            "sequence": "4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-6.1-1641793949.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-6.2-1641793942.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-6.3-1641793940.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-6.4-1641793951.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-6.5-1641793958.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-7-1654233865.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4448336252189,
+          "count": 571
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-1-1641793954.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 19501,
+        "name": "Calcimax Forte Plus Strip Of 30 Tablets",
+        "slug": "calcimax-forte-plus-strip-of-30-tablets-19501",
+        "manufacturer": "CALCIMAX",
+        "productType": 2,
+        "mrpDecimal": "285.00",
+        "salePriceDecimal": 228,
+        "discountDecimal": "57.00",
+        "discountPercent": "20",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1654078168.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-3-1654078728.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-6.1-1641398794.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-6.2-1641398796.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-6.3-1641398799.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-7-1654078234.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.5766871165644,
+          "count": 489
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1654078168.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 3639704,
+        "name": "Liveasy Essentials Handwash Pump 250 Ml",
+        "slug": "liveasy-essentials-handwash-pump-250-ml-3639704",
+        "manufacturer": "LIVEASY",
+        "productType": 2,
+        "mrpDecimal": "72.00",
+        "salePriceDecimal": 72,
+        "discountDecimal": null,
+        "discountPercent": "0",
+        "categoryId": "personalNeed",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-7-1653312978.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.25,
+          "count": 4
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/A75976/liveasy-essentials-handwash-pump-250-ml-2-1653312958.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 38706,
+        "name": "Calcimax 500 Health Supplement Tablets (500 Mg Of Calcium) Box Of 30",
+        "slug": "calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-38706",
+        "manufacturer": "CALCIMAX",
+        "productType": 2,
+        "mrpDecimal": "380.00",
+        "salePriceDecimal": 304,
+        "discountDecimal": "76.00",
+        "discountPercent": "20",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1654077366.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1654077404.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-7-1641399044.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4030837004405,
+          "count": 454
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1654077366.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 3635052,
+        "name": "Toppik Optimizer Black 24/1ct",
+        "slug": "toppik-optimizer-black-24-1ct-3635052",
+        "manufacturer": "TOPPIK",
+        "productType": 2,
+        "mrpDecimal": "600.00",
+        "salePriceDecimal": 288,
+        "discountDecimal": "312.00",
+        "discountPercent": "52",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q15602/toppik-optimizer-black-24-1ct-2-1667393434.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q15602/toppik-optimizer-black-24-1ct-6.1-1667393432.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q15602/toppik-optimizer-black-24-1ct-6.2-1667392955.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q15602/toppik-optimizer-black-24-1ct-6.3-1667392869.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": null,
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/Q15602/toppik-optimizer-black-24-1ct-2-1667393434.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 3053895,
+        "name": "Nair Hair Remover Moisturizing Cream - 110g",
+        "slug": "nair-hair-remover-moisturizing-cream---110g-3053895",
+        "manufacturer": "NAIR",
+        "productType": 2,
+        "mrpDecimal": "289.00",
+        "salePriceDecimal": 118.49,
+        "discountDecimal": "170.51",
+        "discountPercent": "59",
+        "categoryId": "personalNeed",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-2-1667393582.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.1-1667393053.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.2-1667393056.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.3-1667393000.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.4-1667393343.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-6.5-1667393241.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": null,
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/K57596/nair-hair-remover-moisturizing-cream-110g-2-1667393582.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 36999,
+        "name": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+        "slug": "becozym-c-forte-vitamin-b-complex-biotin-vitamin-c---strip-of-15-tablets-36999",
+        "manufacturer": "BECOZYM C FORTE",
+        "productType": 2,
+        "mrpDecimal": "27.40",
+        "salePriceDecimal": "25.21",
+        "discountDecimal": "2.19",
+        "discountPercent": "8",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg",
+            "face": "box-front",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1654077421.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.1-1641398864.jpg",
+            "face": "front",
+            "sequence": "2.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.2-1641398844.jpg",
+            "face": "front",
+            "sequence": "2.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-3-1654077385.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1641398853.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.2-1641398847.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1641398850.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.4-1641398861.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-7-1641398858.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.3980309423347,
+          "count": 1422
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 3607977,
+        "name": "Philips Hair Dryer Bhd308/30 1600w Thermoprotect Airflower, 3 Heat & Speed Settings For Quick Drying",
+        "slug": "philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-3607977",
+        "manufacturer": "PHILIPS",
+        "productType": 2,
+        "mrpDecimal": "1895.00",
+        "salePriceDecimal": 1629.7,
+        "discountDecimal": "265.30",
+        "discountPercent": "14",
+        "categoryId": "personalNeed",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-2-1653899709.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-6.1-1653899594.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-6.2-1653899594.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-6.3-1653899819.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-6.4-1653899724.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-6.5-1653899624.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": null,
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/Q03727/philips-hair-dryer-bhd308-30-1600w-thermoprotect-airflower-3-heat-speed-settings-for-quick-drying-2-1653899709.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 11943,
+        "name": "Scalpe Plus Anti Dandruff Shampoo Bottle Of 75 Ml",
+        "slug": "scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-11943",
+        "manufacturer": "SCALPE",
+        "productType": 2,
+        "mrpDecimal": "280.00",
+        "salePriceDecimal": 179.2,
+        "discountDecimal": "100.80",
+        "discountPercent": "36",
+        "categoryId": "personalNeed",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-2-1663587003.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-2.1-1663586995.jpg",
+            "face": "front",
+            "sequence": "2.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-3-1663587001.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-6.1-1663586999.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-6.2-1663586997.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-7-1663587005.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.38671875,
+          "count": 768
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-2-1663587003.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 209565,
+        "name": "Arachitol Nano 60k Sugar Free Bottle Of 5ml Solution",
+        "slug": "arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-209565",
+        "manufacturer": "ARACHITOL",
+        "productType": 2,
+        "mrpDecimal": "86.66",
+        "salePriceDecimal": 67.59,
+        "discountDecimal": "19.07",
+        "discountPercent": "22",
+        "categoryId": "personalNeed",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-2-1665749143.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-6.1-1665749144.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-6.2-1665749182.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.2871287128713,
+          "count": 101
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-2-1665749143.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 8293,
+        "name": "Venusia Max Intensive Moisturizing Cream, For Dry To Very Dry Skin, Repairs & Smoothens Skin, 150g",
+        "slug": "venusia-max-intensive-moisturizing-cream-for-dry-very-dry-skin-tube-of-150-g-8293",
+        "manufacturer": "VENUSIA",
+        "productType": 2,
+        "mrpDecimal": "504.00",
+        "salePriceDecimal": 393.12,
+        "discountDecimal": "110.88",
+        "discountPercent": "22",
+        "categoryId": null,
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-2-1660816314.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-3-1654078750.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.1-1660816337.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.2-1660816257.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.3-1660816259.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.4-1660816330.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.5-1660816306.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.6-1660816292.jpg",
+            "face": "side",
+            "sequence": "6.6"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-6.7-1660816271.jpg",
+            "face": "side",
+            "sequence": "6.7"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-7-1654078392.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.5156950672646,
+          "count": 446
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/180461/venusia-max-intensive-moisturizing-cream-for-dry-to-very-dry-skin-repairs-smoothens-skin-150g-2-1660816314.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 8461,
+        "name": "Venusia Max Intensive Moisturizing Lotion, Repairs Dry Skin, Provides Soft & Smooth Skin, 300gm",
+        "slug": "venusia-max-intensive-moisturizing-lotion-for-all-skin-types-bottle-of-300-g-8461",
+        "manufacturer": "VENUSIA",
+        "productType": 2,
+        "mrpDecimal": "662.00",
+        "salePriceDecimal": 516.36,
+        "discountDecimal": "145.64",
+        "discountPercent": "22",
+        "categoryId": "personalNeed",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-2-1660816203.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.1-1660816311.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.2-1660816082.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.3-1660816075.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.4-1660816240.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.5-1660816116.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.6-1660816126.jpg",
+            "face": "side",
+            "sequence": "6.6"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-6.7-1660816085.jpg",
+            "face": "side",
+            "sequence": "6.7"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-7-1645786304.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4293059125964,
+          "count": 389
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/263100/venusia-max-intensive-moisturizing-lotion-repairs-dry-skin-provides-soft-smooth-skin-300gm-2-1660816203.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 235886,
+        "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60 Tabs",
+        "slug": "liveasy-wellness-calcium-magnesium-vitamin-d3-zinc---bones-dental-health---bottle-of-60-tablets-235886",
+        "manufacturer": "LIVEASY",
+        "productType": 2,
+        "mrpDecimal": "599.00",
+        "salePriceDecimal": 329.45,
+        "discountDecimal": "269.55",
+        "discountPercent": "45",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1661760061.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-6.1-1661760151.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          }
+        ],
+        "labelDetails": {
+          "code": 1,
+          "name": "BEST SELLER"
+        },
+        "ratingDetails": {
+          "value": 4.1259445843829,
+          "count": 397
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1661760061.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 227487,
+        "name": "Ultra D3 Drops - Vitamin D3 For Infants Vitamin Drops Bottle Of 15 Ml",
+        "slug": "ultra-d3-drops---vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-227487",
+        "manufacturer": "ULTRA D3",
+        "productType": 2,
+        "mrpDecimal": "37.85",
+        "salePriceDecimal": 32.17,
+        "discountDecimal": "5.68",
+        "discountPercent": "15",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-2-1654250369.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-6.1-1641788617.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-6.2-1641788616.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-6.3-1641788609.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-6.4-1641788610.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-6.5-1641788614.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-6.6-1641788608.jpg",
+            "face": "side",
+            "sequence": "6.6"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.702380952381,
+          "count": 168
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/P26899/ultra-d3-drops-vitamin-d3-for-infants-vitamin-drops-bottle-of-15-ml-2-1654250369.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 37059,
+        "name": "Benadon Vitamin B6 40mg Tablet 10's",
+        "slug": "benadon-vitamin-b6-40mg-tablet-10-s-37059",
+        "manufacturer": "BENADON",
+        "productType": 2,
+        "mrpDecimal": "25.40",
+        "salePriceDecimal": 24.13,
+        "discountDecimal": "1.27",
+        "discountPercent": "5",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1658917336.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2.1-1658917334.jpg",
+            "face": "front",
+            "sequence": "2.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2.2-1658917338.jpg",
+            "face": "front",
+            "sequence": "2.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-3-1658917332.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-6.1-1658917330.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-6.2-1658917342.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-7-1658917340.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4027149321267,
+          "count": 221
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1658917336.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 25749,
+        "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 30 Tablets",
+        "slug": "revital-h-woman-health-supplement-tablets-bottle-of-30-25749",
+        "manufacturer": "REVITAL",
+        "productType": 2,
+        "mrpDecimal": "360.00",
+        "salePriceDecimal": 306,
+        "discountDecimal": "54.00",
+        "discountPercent": "15",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-1-1654168794.jpg",
+            "face": "box-front",
+            "sequence": "1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-2-1654168765.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-3-1654168762.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.1-1641398762.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.2-1641398764.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.3-1641398752.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.4-1641398766.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.6-1641398758.jpg",
+            "face": "side",
+            "sequence": "6.6"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.7-1641398761.jpg",
+            "face": "side",
+            "sequence": "6.7"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-7-1654168829.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4625468164794,
+          "count": 534
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-1-1654168794.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 23108,
+        "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy (60 Capsules)",
+        "slug": "revital-h-health-supplement-capsules-bottle-of-60-23108",
+        "manufacturer": "REVITAL",
+        "productType": 2,
+        "mrpDecimal": "550.00",
+        "salePriceDecimal": 467.5,
+        "discountDecimal": "82.50",
+        "discountPercent": "15",
+        "categoryId": "medicine",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-60-capsules-2-1654077644.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-60-capsules-3-1654077743.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-health-supplement-capsules-bottle-of-60-6.1-1641398756.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-health-supplement-capsules-bottle-of-60-6.2-1641398745.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-health-supplement-capsules-bottle-of-60-6.3-1641398753.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-health-supplement-capsules-bottle-of-60-6.4-1641398743.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-60-capsules-7-1654077638.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4266666666667,
+          "count": 825
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/281751/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-60-capsules-2-1654077644.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 23096,
+        "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy (30 Capsules)",
+        "slug": "revital-h-health-supplement-capsules-bottle-of-30-23096",
+        "manufacturer": "REVITAL",
+        "productType": 2,
+        "mrpDecimal": "310.00",
+        "salePriceDecimal": 263.5,
+        "discountDecimal": "46.50",
+        "discountPercent": "15",
+        "categoryId": "immunityBooster",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg",
+            "face": "combo",
+            "sequence": "3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.1-1641398821.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.2-1641398805.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.3-1641398817.jpg",
+            "face": "side",
+            "sequence": "6.3"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.4-1641398814.jpg",
+            "face": "side",
+            "sequence": "6.4"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.5-1641398825.jpg",
+            "face": "side",
+            "sequence": "6.5"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.6-1641398808.jpg",
+            "face": "side",
+            "sequence": "6.6"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-7-1654077677.jpg",
+            "face": "back",
+            "sequence": "7"
+          }
+        ],
+        "labelDetails": null,
+        "ratingDetails": {
+          "value": 4.4134615384615,
+          "count": 520
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 234982,
+        "name": "Everherb (by Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of 60",
+        "slug": "everherb-ashwagandha---immunity-booster-capsules---anxiety-stress-relief---bottle-of-60-234982",
+        "manufacturer": "EVERHERB",
+        "productType": 2,
+        "mrpDecimal": "599.00",
+        "salePriceDecimal": 341.43,
+        "discountDecimal": "257.57",
+        "discountPercent": "43",
+        "categoryId": "immunityBooster",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1661760093.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1661760144.jpg",
+            "face": "side",
+            "sequence": "6.2"
+          }
+        ],
+        "labelDetails": {
+          "code": 5,
+          "name": "ON SALE"
+        },
+        "ratingDetails": {
+          "value": 3.9317406143345,
+          "count": 293
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      },
+      {
+        "productId": 235895,
+        "name": "Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+        "slug": "liveasy-wellness-multivitamin-multimineral---immunity-booster---complete-nutrition---bottle-of-60-235895",
+        "manufacturer": "LIVEASY",
+        "productType": 2,
+        "mrpDecimal": "699.00",
+        "salePriceDecimal": 559.2,
+        "discountDecimal": "139.80",
+        "discountPercent": "20",
+        "categoryId": "immunityBooster",
+        "damImages": [
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg",
+            "face": "front",
+            "sequence": "2"
+          },
+          {
+            "url": "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1661760099.jpg",
+            "face": "side",
+            "sequence": "6.1"
+          }
+        ],
+        "labelDetails": {
+          "code": 5,
+          "name": "ON SALE"
+        },
+        "ratingDetails": {
+          "value": 4.183734939759,
+          "count": 332
+        },
+        "listingId": null,
+        "productTierAttributes": {
+          "type": 5,
+          "text": "Guaranteed Delivery"
+        },
+        "productSubstitutionAttributes": null,
+        "productAvailabilityFlags": {
+          "isAvailable": true,
+          "showVariantsInBottomSheet": true,
+          "notifyMe": false
+        },
+        "maxQuantity": 20,
+        "productVolume": 0,
+        "similarProductsAttributes": null,
+        "isAvailable": true,
+        "images": [
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=300x0&f=jpg&dpr=3&q=60"
+        ]
+      }
+    ]
 }
